@@ -1,4 +1,1 @@
-wordpress-example-plugin
-========================
-
-An example WordPress plugin.
+A wordpress plugin written for <a href='http://abhirama.wordpress.com/2010/06/07/wordpress-plugin-and-widget-tutorial/' target='_blank'>this</a> tutorial.
